@@ -1,0 +1,41 @@
+{
+  "name": "arb",
+  "version": "0.1.0",
+  "description": "AdSense Readiness Benchmark skills for end-to-end readiness audits",
+  "author": {
+    "name": "ARB Contributors",
+    "email": "huifer97@163.com",
+    "url": "https://github.com/obra"
+  },
+  "homepage": "https://github.com/huifer/AdSense-Readiness-Benchmark",
+  "repository": "https://github.com/huifer/AdSense-Readiness-Benchmark",
+  "license": "MIT",
+  "keywords": [
+    "adsense",
+    "arb",
+    "audit",
+    "website-quality",
+    "policy",
+    "trust",
+    "technical-health"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ARB",
+    "shortDescription": "Policy-first AdSense readiness audits",
+    "longDescription": "Use ARB to run gate-based AdSense readiness audits across content integrity, policy compliance, technical health, user experience, trust, search integrity, and final weighted scoring.",
+    "developerName": "ARB Contributors",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Please run an ARB audit for this site.",
+      "Help me assess AdSense readiness before I apply."
+    ],
+    "brandColor": "#0EA5E9",
+    "screenshots": []
+  }
+}

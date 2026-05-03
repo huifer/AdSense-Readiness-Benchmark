@@ -1,0 +1,23 @@
+{
+  "name": "arb",
+  "displayName": "ARB",
+  "description": "AdSense Readiness Benchmark skill library for policy-aware site audits",
+  "version": "0.1.0",
+  "author": {
+    "name": "ARB Contributors",
+    "email": "huifer97@163.com"
+  },
+  "homepage": "https://github.com/huifer/AdSense-Readiness-Benchmark",
+  "repository": "https://github.com/huifer/AdSense-Readiness-Benchmark",
+  "license": "MIT",
+  "keywords": [
+    "adsense",
+    "audit",
+    "policy-compliance",
+    "content-integrity",
+    "technical-health",
+    "ux",
+    "trust"
+  ],
+  "skills": "./skills/"
+}
