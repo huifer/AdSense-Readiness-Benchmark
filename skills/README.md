@@ -40,6 +40,8 @@ Recommended fallback entry:
 4. [geo-localization-compliance](./geo-localization-compliance/) - Region-specific compliance and consent review
 5. [competitive-benchmark](./competitive-benchmark/) - Industry baseline and competitor gap analysis
 6. [agency-batch-auditor](./agency-batch-auditor/) - Multi-site agency workflow and ranking
+7. [scb-profile-router](./scb-profile-router/) - SCB content profile routing, weight resolution, and extension trigger mapping
+8. [scb-execution-planner](./scb-execution-planner/) - SCB remediation sequencing, batching, and recheck planning
 
 #### Active Phase (After Approval)
 1. [active-compliance-monitor](./active-compliance-monitor/) - Automated monitoring setup
@@ -59,7 +61,7 @@ Recommended fallback entry:
 
 ---
 
-## 26 Skills Overview
+## 28 Skills Overview
 
 ### Layer 1: Orchestration (1 skill)
 
@@ -112,7 +114,7 @@ Recommended fallback entry:
 | [copyright-ip-check](./copyright-ip-check/) | Copyright & IP review | Pre-flight / Active / Recovery |
 | [seo-spam-detection](./seo-spam-detection/) | SEO spam detection | Pre-flight / Active / Recovery |
 
-### Layer 7: Scale, Benchmark, and Monetization (6 skills)
+### Layer 7: Scale, Benchmark, and Monetization (8 skills)
 
 | Skill | Purpose | Applies To |
 |-------|---------|-----------|
@@ -122,6 +124,8 @@ Recommended fallback entry:
 | [geo-localization-compliance](./geo-localization-compliance/) | Regional privacy, consent, and disclosure review | Multi-market / Active |
 | [competitive-benchmark](./competitive-benchmark/) | Industry baseline and competitor comparison | Planning / Prioritization |
 | [agency-batch-auditor](./agency-batch-auditor/) | Multi-site batch auditing and white-label delivery | Agency / Portfolio |
+| [scb-profile-router](./scb-profile-router/) | SCB profile detection, weighting merge, and extension trigger routing | Planning / Scoring setup |
+| [scb-execution-planner](./scb-execution-planner/) | SCB score-to-remediation conversion with veto-first task batching | Planning / Remediation tracking |
 
 ---
 
@@ -247,6 +251,8 @@ Each skill supports multiple check modes:
 | geo-localization-compliance | ✓ | ✓ | ✓ |
 | competitive-benchmark | ✓ | ✓ | ✓ |
 | agency-batch-auditor | ✓ | ✓ | ✓ |
+| scb-profile-router | ✓ | ✓ | ✓ |
+| scb-execution-planner | ✓ | ✓ | ✓ |
 | (Others) | - | - | ✓ |
 
 ---
