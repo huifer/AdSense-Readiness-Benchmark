@@ -5,6 +5,7 @@
 [![Bilingual](https://img.shields.io/badge/Bilingual-English%20%7C%20%E4%B8%AD%E6%96%87-8b5cf6)](./readme.zh.md)
 [![Primary-Focus](https://img.shields.io/badge/Primary%20Focus-AdSense%20Readiness-f59e0b)](#what-arb-does)
 [![Coverage](https://img.shields.io/badge/Coverage-Core%2079%20%7C%20Full%20105-374151)](#scoring-scope)
+[![skills.sh](https://skills.sh/b/huifer/AdSense-Readiness-Benchmark)](https://skills.sh/huifer/AdSense-Readiness-Benchmark)
 
 English | [中文说明](./readme.zh.md)
 
